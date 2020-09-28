@@ -25,6 +25,7 @@ img {
 
 header {
   background-image: url("../images/anchors.svg");
+  background-color: #222;
   color: #fff;
   font-size: 1.125rem;
   font-style: normal;
@@ -36,6 +37,10 @@ header strong,
 header p {
   margin: 0;
   font-weight: normal;
+}
+
+.extra {
+  padding: 0;
 }
 
 .by {
@@ -157,4 +162,5 @@ footer {
   padding: 1rem;
   background-image: url("../images/anchors.svg");
   color: #fff;
+  background-color: #222;
 }
